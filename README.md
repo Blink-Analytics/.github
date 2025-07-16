@@ -69,27 +69,11 @@ We specialize in:
 
 ---
 
-## 💡 Thought Leadership & Media
-
-We actively publish case studies, trend insights, and AI whitepapers to guide leaders in data-driven strategies.
-
-📚 [Our blog](https://www.blinkanalytics.in/blog)
-
-> _“Blink scored highest across Gartner Peer Insights in internal communications.”_ :contentReference[oaicite:11]{index=11}
-
----
-
 ## 👥 Our Team & Careers
 
 We’re a diverse team of data scientists, ML engineers, AI researchers, software architects, and cloud specialists. Driven by a common goal: to make data accessible, secure, and actionable.
 
 🚀 **We’re hiring!** ▶️ [Visit Careers](https://www.blinkanalytics.in/careers)
-
----
-
-## 📡 Stay Connected
-
----
 
 <p align="center">
   <sub>© 2025 Blink Analytics Pvt. Ltd. | Turning Data into Decisions</sub>
