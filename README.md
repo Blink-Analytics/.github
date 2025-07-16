@@ -7,13 +7,13 @@
 
 <p align="center">
   <strong>Generative AI & Data‑Driven Business Intelligence</strong><br>
-  <em>Harnessing AI to transform data into actionable insights</em>
+  <em>Transforming Data into Intelligence, Models into Impact, and AI into your Advantage</em>
 </p>
 
 <p align="center">
   <a href="https://www.blinkanalytics.in"><img src="https://img.shields.io/badge/Visit_Website-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact_Us-Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/LinkedIn-Blink_Analytics-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:support@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact_Us-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/company/blink-analytics/"><img src="https://img.shields.io/badge/LinkedIn-Blink_Analytics-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
@@ -88,20 +88,6 @@ We’re a diverse team of data scientists, ML engineers, AI researchers, softwar
 ---
 
 ## 📡 Stay Connected
-
-<p align="center">
-  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/LinkedIn-BlinkAnalytics-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.twitter.com/blinkanalytics"><img src="https://img.shields.io/badge/Twitter-@BlinkAnalytics-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Email-Contact_Us-d14836?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-## 📁 Explore Our GitHub
-
-Browse our public repositories to see open-source tools, model pipelines, API integrations, and dashboards.
-
-🔖 **Pinned Repositories** showcase our latest work in ML Ops, AI utilities, and engagement analytics.
 
 ---
 
