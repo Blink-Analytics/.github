@@ -5,126 +5,132 @@
 
 # 👁️‍🗨️ Blink Analytics
 
-**Empowering Enterprises with Next-Generation Data Intelligence**  
-_Simplifying analytics. Accelerating decisions._
-
----
-
-## 🚀 About Us
-
-Blink Analytics is a cutting-edge analytics and AI solutions company focused on delivering high-impact insights to businesses through innovative data strategies. Our vision is to empower organizations to unlock the full potential of their data with speed, precision, and clarity.
-
-🔗 [Visit Our Website](https://www.blinkanalytics.in)
-
----
-
-## 📊 By the Numbers
-
-| Metric                          | Value                |
-|-------------------------------|----------------------|
-| 🏢 Founded                     | 2022                 |
-| 🌐 Global Clients             | 25+                  |
-| 📈 Projects Delivered          | 50+                  |
-| 🧠 AI Models Deployed          | 120+                 |
-| 💼 Industries Served           | 10+                  |
-| 👥 Team Size                   | 40+ Experts          |
-| 💡 Innovation Score            | ★★★★★                |
-| 🔒 Data Secured (TB)           | 500+                 |
-
----
-
-## 🧩 Core Offerings
-
-- **Advanced Analytics & BI Dashboards**  
-- **AI/ML Model Development & Deployment**  
-- **Data Engineering & Pipeline Automation**  
-- **Data Governance & Compliance**  
-- **Cloud-native Data Warehousing**  
-- **Custom Software & Visualization Tools**
-
----
-
-## 🌐 Tech Stack
+<p align="center">
+  <b>Empowering Enterprises with Next-Generation Data Intelligence</b><br>
+  <i>Simplifying analytics. Accelerating decisions.</i>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,aws,gcp,azure,docker,kubernetes,pytorch,tensorflow,postgresql,mongodb,graphql,fastapi,flask,react,vite" alt="Tech Stack" />
+  <a href="https://www.blinkanalytics.in"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact-Us-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+## 🌟 About Us
 
-### 📌 BlinkEdge – Real-time Analytics Accelerator
-**Description:** A plug-and-play analytics accelerator that connects to multiple data sources, performs automated ETL, and delivers visualizations in real time.
+Blink Analytics is a technology-driven analytics and AI solutions company committed to transforming data into meaningful outcomes. We partner with organizations across industries to unlock business intelligence, drive automation, and deliver measurable value using state-of-the-art data science practices.
 
-### 📌 InsightIQ – Predictive Intelligence Engine
-**Description:** AI platform built for forecasting, anomaly detection, and operational optimization across retail and logistics domains.
-
-### 📌 DataSentinel – Compliance & Governance Suite
-**Description:** Ensures enterprise-grade data security, privacy controls, and regulatory compliance through automated audit and policy enforcement.
-
-### 📌 Blink BI Studio
-**Description:** Self-service business intelligence tool for non-technical users to explore, visualize, and share data effortlessly.
+> _"We build intelligent systems that don’t just analyze — they anticipate."_
 
 ---
 
-## 🧠 Thought Leadership
+## 📊 At a Glance
 
-We regularly publish technical blogs, whitepapers, and case studies.  
-➡️ [Explore our insights](https://www.blinkanalytics.in/blog)
+<div align="center">
 
----
+| 📅 Founded | 🌎 Global Clients | 📈 Projects Delivered | 🤖 AI Models Deployed |
+|-----------|------------------|------------------------|-----------------------|
+| 2022      | 25+              | 50+                    | 120+                  |
 
-## 💬 In the Media
+| 🧑‍💻 Team Members | 🔐 TBs of Data Secured | 🧠 Innovation Score | 🌍 Industries Served |
+|------------------|------------------------|---------------------|----------------------|
+| 40+ Experts       | 500+                  | ★★★★★               | 10+                  |
 
-> _"Blink Analytics is redefining how businesses look at data."_  
-> — _TechTimes India_
-
-> _"An emerging powerhouse in enterprise AI."_  
-> — _Analytics Today_
-
----
-
-## 🤝 Let’s Collaborate
-
-We love working with:
-
-- Startups aiming to build data products
-- Enterprises seeking to modernize legacy analytics
-- NGOs looking to make data-driven impact
-- Research teams needing scalable AI models
-
-📫 Contact us: [hello@blinkanalytics.in](mailto:hello@blinkanalytics.in)
+</div>
 
 ---
 
-## 👥 Meet the Team
-
-Behind Blink Analytics is a diverse team of data scientists, engineers, domain experts, and designers passionate about transforming how businesses use data.
-
-🌟 _We’re hiring!_ Check out our [careers page](https://www.blinkanalytics.in/careers) to join us.
-
----
-
-## 📌 Organization Structure
-
-- [🔍 Repositories](https://github.com/Blink-Analytics?tab=repositories)  
-- [📦 Packages](https://github.com/orgs/Blink-Analytics/packages)  
-- [🚀 Projects](https://github.com/orgs/Blink-Analytics/projects)  
-- [📂 Actions](https://github.com/orgs/Blink-Analytics/actions)
-
----
-
-## 📢 Stay Connected
+## 🧠 Core Competencies
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/LinkedIn-BlinkAnalytics-blue?logo=linkedin" /></a>
-  <a href="https://www.twitter.com/blinkanalytics"><img src="https://img.shields.io/badge/Twitter-@BlinkAnalytics-1DA1F2?logo=twitter" /></a>
-  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Email-Contact_Us-d14836?logo=gmail" /></a>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/big-data.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/data-in-both-directions.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
+</p>
+
+- **Predictive & Prescriptive Analytics**
+- **Deep Learning Applications**
+- **Data Engineering & Pipelines**
+- **Cloud-Native ML Ops**
+- **AI Model Lifecycle Management**
+- **Visualization & Dashboarding**
+
+---
+
+## 🧬 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,seaborn,jupyter,r,sql,mongodb,postgresql,airflow,docker,kubernetes,aws,gcp,azure" alt="Tech Stack" />
+</p>
+
+<div align="center">
+
+| 🧠 Data Science         | 🤖 ML/DL Frameworks         | ☁️ Cloud & DevOps       | 📊 Visualization        |
+|------------------------|-----------------------------|--------------------------|-------------------------|
+| Python, R, Jupyter     | Scikit-learn, TensorFlow, PyTorch | AWS, GCP, Azure, Docker, Airflow | Power BI, Tableau, Plotly, Seaborn |
+
+</div>
+
+---
+
+## 💡 Thought Leadership
+
+📚 We publish technical deep dives, client success stories, and trend analyses on AI, ML, and data strategy.
+
+> 🔗 [Read our latest insights](https://www.blinkanalytics.in/blog)
+
+---
+
+## 🧑‍💼 Meet Our Team
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/teamwork.png" alt="Team" />
+</p>
+
+We're a passionate group of:
+
+- Data Scientists
+- AI/ML Engineers
+- Data Architects
+- Product Designers
+- Cloud Specialists
+
+> 🧲 _We're hiring!_ → [Careers @ Blink Analytics](https://www.blinkanalytics.in/careers)
+
+---
+
+## 🌍 Connect With Us
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/blinkanalytics/">
+    <img src="https://img.shields.io/badge/LinkedIn-BlinkAnalytics-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.twitter.com/blinkanalytics">
+    <img src="https://img.shields.io/badge/Twitter-@BlinkAnalytics-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:hello@blinkanalytics.in">
+    <img src="https://img.shields.io/badge/Email-hello@blinkanalytics.in-d14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
+## 📁 Explore Our Work
+
+Browse our GitHub to see open-source utilities, experiments, and client-facing tools we build and maintain.
+
+📌 **Pinned Repositories**  
+Check the top of our page for featured work!
+
+📦 **Private Projects**  
+We also deliver enterprise-grade, custom analytics systems for clients in healthcare, retail, logistics, and BFSI.
+
+---
+
 <p align="center">
-  <sub>Made with ❤️ by the Blink Analytics Team • © 2025 Blink Analytics Pvt Ltd</sub>
+  <sub>© 2025 Blink Analytics Pvt. Ltd. • All rights reserved • Designed with 💙</sub>
 </p>
