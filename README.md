@@ -1,109 +1,117 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" />
+  <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" width="100%" />
 </p>
 
 # 👁️‍🗨️ Blink Analytics
 
 <p align="center">
-  <b>Empowering Enterprises with Next-Generation Data Intelligence</b><br>
-  <i>Simplifying analytics. Accelerating decisions.</i>
+  <strong>Empowering Enterprises with Next-Generation Data Intelligence</strong><br>
+  <em>Simplifying analytics. Accelerating decisions.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.blinkanalytics.in"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact-Us-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.blinkanalytics.in"><img src="https://img.shields.io/badge/Visit_Website-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact_Us-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/LinkedIn-Blink_Analytics-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
-## 🌟 About Us
+## 🧬 About Us
 
-Blink Analytics is a technology-driven analytics and AI solutions company committed to transforming data into meaningful outcomes. We partner with organizations across industries to unlock business intelligence, drive automation, and deliver measurable value using state-of-the-art data science practices.
+Blink Analytics is a data science and AI-driven analytics company committed to delivering actionable insights, automation, and innovation. We help businesses transform raw data into strategic advantage with scalable, enterprise-grade solutions.
 
-> _"We build intelligent systems that don’t just analyze — they anticipate."_
-
----
-
-## 📊 At a Glance
-
-<div align="center">
-
-| 📅 Founded | 🌎 Global Clients | 📈 Projects Delivered | 🤖 AI Models Deployed |
-|-----------|------------------|------------------------|-----------------------|
-| 2022      | 25+              | 50+                    | 120+                  |
-
-| 🧑‍💻 Team Members | 🔐 TBs of Data Secured | 🧠 Innovation Score | 🌍 Industries Served |
-|------------------|------------------------|---------------------|----------------------|
-| 40+ Experts       | 500+                  | ★★★★★               | 10+                  |
-
-</div>
+> _"We don’t just analyze your data—we activate its full potential."_
 
 ---
 
-## 🧠 Core Competencies
+## 📊 Key Stats
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/big-data.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/data-in-both-directions.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
-</p>
-
-- **Predictive & Prescriptive Analytics**
-- **Deep Learning Applications**
-- **Data Engineering & Pipelines**
-- **Cloud-Native ML Ops**
-- **AI Model Lifecycle Management**
-- **Visualization & Dashboarding**
-
----
-
-## 🧬 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,seaborn,jupyter,r,sql,mongodb,postgresql,airflow,docker,kubernetes,aws,gcp,azure" alt="Tech Stack" />
-</p>
-
-<div align="center">
-
-| 🧠 Data Science         | 🤖 ML/DL Frameworks         | ☁️ Cloud & DevOps       | 📊 Visualization        |
-|------------------------|-----------------------------|--------------------------|-------------------------|
-| Python, R, Jupyter     | Scikit-learn, TensorFlow, PyTorch | AWS, GCP, Azure, Docker, Airflow | Power BI, Tableau, Plotly, Seaborn |
-
-</div>
+<table align="center">
+  <tr>
+    <td>📅 <b>Founded</b><br>2022</td>
+    <td>🌐 <b>Clients Served</b><br>25+</td>
+    <td>📈 <b>Solutions Delivered</b><br>50+</td>
+    <td>🧠 <b>AI Models Deployed</b><br>120+</td>
+  </tr>
+  <tr>
+    <td>👨‍💻 <b>Team Size</b><br>40+ Experts</td>
+    <td>🔒 <b>Data Secured</b><br>500+ TB</td>
+    <td>💡 <b>Innovation Score</b><br>★★★★★</td>
+    <td>🏢 <b>Industries</b><br>10+ Served</td>
+  </tr>
+</table>
 
 ---
 
-## 💡 Thought Leadership
+## 🧠 Areas of Expertise
 
-📚 We publish technical deep dives, client success stories, and trend analyses on AI, ML, and data strategy.
-
-> 🔗 [Read our latest insights](https://www.blinkanalytics.in/blog)
-
----
-
-## 🧑‍💼 Meet Our Team
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/teamwork.png" alt="Team" />
-</p>
-
-We're a passionate group of:
-
-- Data Scientists
-- AI/ML Engineers
-- Data Architects
-- Product Designers
-- Cloud Specialists
-
-> 🧲 _We're hiring!_ → [Careers @ Blink Analytics](https://www.blinkanalytics.in/careers)
+- Machine Learning & Deep Learning
+- Predictive & Prescriptive Analytics
+- Real-Time Data Engineering
+- Cloud-Native AI Deployment (MLOps)
+- Computer Vision & NLP
+- Business Intelligence Dashboards
+- Data Governance & Compliance
 
 ---
 
-## 🌍 Connect With Us
+## 🔧 Tech Stack
+
+Here’s what powers our solutions:
+
+### 📊 Data Science & Analytics
+- 🐍 Python, 📊 R, 📘 Jupyter Notebook
+- 📦 Pandas, NumPy, SciPy, StatsModels
+- 📈 Seaborn, Matplotlib, Plotly
+
+### 🤖 Machine Learning & Deep Learning
+- 🔍 Scikit-Learn, 🧠 TensorFlow, 🔥 PyTorch
+- 🧾 XGBoost, LightGBM, CatBoost
+- 🗣️ HuggingFace Transformers, OpenCV
+
+### ☁️ Cloud & DevOps
+- ☁️ AWS (SageMaker, Redshift, S3)
+- ☁️ GCP (BigQuery, Vertex AI)
+- ☁️ Azure (ML Studio, Synapse)
+- 🐳 Docker, 🎯 Kubernetes, 🌬️ Airflow
+
+### 🛠️ Engineering & Storage
+- 🔄 Apache Kafka, Apache Spark
+- 🛢️ PostgreSQL, MongoDB, Snowflake, Delta Lake
+- 📂 dbt, Apache Hive
+
+---
+
+## 💬 Thought Leadership
+
+We actively contribute insights to the global data and AI community.
+
+📚 [Explore our blog](https://www.blinkanalytics.in/blog) for:
+- Case studies
+- Industry whitepapers
+- Technical tutorials
+
+> _“The future belongs to those who understand data—and we’re building it.”_
+
+---
+
+## 👥 Meet the Team
+
+We're a high-performance team of:
+
+- Data Scientists  
+- Machine Learning Engineers  
+- Cloud Architects  
+- AI Researchers  
+- Product Thinkers
+
+🚀 **We’re hiring!** → [Careers @ Blink Analytics](https://www.blinkanalytics.in/careers)
+
+---
+
+## 📡 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/company/blinkanalytics/">
@@ -119,18 +127,19 @@ We're a passionate group of:
 
 ---
 
-## 📁 Explore Our Work
+## 📁 Explore Our Repositories
 
-Browse our GitHub to see open-source utilities, experiments, and client-facing tools we build and maintain.
+We build and share tools, experiments, and frameworks in:
 
-📌 **Pinned Repositories**  
-Check the top of our page for featured work!
+- Machine Learning Ops
+- Custom Model APIs
+- Data Processing Utilities
+- Visualization Components
 
-📦 **Private Projects**  
-We also deliver enterprise-grade, custom analytics systems for clients in healthcare, retail, logistics, and BFSI.
+⭐ **Pinned repositories** highlight our featured public work.
 
 ---
 
 <p align="center">
-  <sub>© 2025 Blink Analytics Pvt. Ltd. • All rights reserved • Designed with 💙</sub>
+  <sub>© 2025 Blink Analytics Pvt. Ltd. • Designed with 💙 by the Blink Team</sub>
 </p>
