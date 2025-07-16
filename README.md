@@ -4,7 +4,7 @@
 
 <!-- Your Logo -->
 
-<img src="https://www.google.com/search?q=https://github.com/Blink-Analytics/.github/Blink_Logo_1.jpg" alt="Blink Analytics Logo" width="200"/>
+<img src="[[https://www.google.com/search?q=https://github.com/Blink-Analytics/.github/Blink_Logo_1.jpg" alt="Blink Analytics Logo" width="200](https://github.com/Blink-Analytics/.github/blob/main/Blink_Logo_1.jpg)](https://github.com/Blink-Analytics/.github/blob/main/Blink_Logo_1.jpg)"/>
 
 <!-- Company Name -->
 
