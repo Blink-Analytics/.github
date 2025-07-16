@@ -20,28 +20,30 @@
 
 ## 🌐 Who We Are
 
-Blink Analytics is a full-service Generative AI and data analytics firm that empowers organizations to access real-time insights and intelligence. Our solutions enable transformative business improvements—from employee engagement to predictive decision-making :contentReference[oaicite:1]{index=1}.
+Blink Analytics is a full-service Generative AI and data analytics firm that empowers organizations to access real-time insights and intelligence. Our solutions enable transformative business improvements—from employee engagement to predictive decision-making.
 
 ---
 
 ## 📈 What We Deliver
 
-- **Real-Time Analytics** – Monitor platform usage, content reach, sentiment, and feedback to drive strategic internal communications :contentReference[oaicite:2]{index=2}.
-- **Employee Intelligence** – Transform workforce data into meaningful insights on engagement, turnover, and team dynamics :contentReference[oaicite:3]{index=3}.
-- **Data Privacy by Design** – Analytics that respect individuals’ privacy; no personal data leak, only aggregated metrics :contentReference[oaicite:4]{index=4}.
-- **Dashboard Distribution & Gamification** – Push insights directly into workflows, motivating adoption via benchmarks and competitions :contentReference[oaicite:5]{index=5}.
+- **Real-Time Analytics** – Monitor platform usage, content reach, sentiment, and feedback to drive strategic internal communications :contentReference.
+- **Employee Intelligence** – Transform workforce data into meaningful insights on engagement, turnover, and team dynamics :contentReference.
+- **Data Privacy by Design** – Analytics that respect individuals’ privacy; no personal data leak, only aggregated metrics :contentReference.
+- **Dashboard Distribution & Gamification** – Push insights directly into workflows, motivating adoption via benchmarks and competitions.
 
 ---
 
 ## 📊 Key Impact Metrics
 
-| ⭐ Metric                                | 📊 Value         |
-|-----------------------------------------|------------------|
-| Employee Reach                          | 95%              |
-| Response Rates                          | 📈 3× increase    |
-| Reduction in Employee Turnover          | 26%              |
-| App Opens (per employee, per day)       | 7×               |
-| Ease of Use (User Rating)              | 9 / 10            :contentReference[oaicite:6]{index=6} |
+| ⭐ Metric                                        | 📈 Impact Achieved             |
+| ----------------------------------------------- | ------------------------------ |
+| 📣 **Employee Communication Reach**             | 95% average coverage rate      |
+| 📝 **Feedback & Survey Response Rate**          | 3× increase in engagement      |
+| 🔄 **Attrition Risk Reduction**                 | 26% lower voluntary churn      |
+| 📱 **Platform Engagement (daily active users)** | 7× increase in app opens       |
+| 🧠 **Managerial Decision-Making Speed**         | 2× faster insight delivery     |
+| 🎯 **Internal Campaign Effectiveness**          | +40% increase in participation |
+| ✅ **Ease of Use (User Rating)**                 | 9 / 10 (employee-rated)        |
 
 ---
 
@@ -73,8 +75,9 @@ We specialize in:
 
 We’re a diverse team of data scientists, ML engineers, AI researchers, software architects, and cloud specialists. Driven by a common goal: to make data accessible, secure, and actionable.
 
-🚀 **We’re hiring!** ▶️ [Visit Careers](https://www.blinkanalytics.in/careers)
+🚀 **We’re hiring!** 
+[Visit Careers](https://www.blinkanalytics.in/careers)
 
 <p align="center">
-  <sub>© 2025 Blink Analytics Pvt. Ltd. | Turning Data into Decisions</sub>
+  <sub>© 2025 Blink Analytics Pvt. Ltd.</sub>
 </p>
