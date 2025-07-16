@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<!-- Your Logo -->
+<!-- Company Banner -->
 
-<img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg"/>
+<!-- IMPORTANT: Ensure 'Blink Analytics Banner.jpg' is in the root of your .github repository -->
 
-<!-- Company Name -->
-
-<h1><b>Blink Analytics</b></h1>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Blink-Analytics/.github/main/Blink%2520Analytics%2520Banner.jpg" alt="Blink Analytics Banner"/>
 
 <!-- Tagline -->
 
@@ -33,7 +31,10 @@
 </a>
 </div>
 
-👋 About Us
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834479-dbab4500-a447-11eb-9753-a1e1db2a56cb.gif" width="25" /> About Us
 Welcome to the official GitHub home of Blink Analytics! We are a team of passionate data scientists, AI engineers, and business intelligence experts dedicated to helping organizations unlock the power of their data. We build cutting-edge solutions that drive growth, efficiency, and innovation.
 
 Our mission is to democratize data science and make advanced analytics accessible to businesses of all sizes.
@@ -58,16 +59,44 @@ Our mission is to democratize data science and make advanced analytics accessibl
 </table>
 </div>
 
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 🚀 What We Do
 We specialize in transforming complex data into actionable insights. Our core services include:
 
-🧠 Artificial Intelligence & Machine Learning: Developing predictive models, NLP solutions, and computer vision systems.
+Icon
 
-📈 Business Intelligence & Visualization: Creating interactive dashboards and reports with tools like Power BI and Tableau.
+Service
 
-🛠️ Data Engineering & Big Data: Building robust, scalable data pipelines and warehousing solutions on cloud platforms.
+Description
 
-📊 Advanced Data Analytics: Providing deep statistical analysis and data-driven consulting to solve critical business challenges.
+🧠
+
+AI & Machine Learning
+
+Developing predictive models, NLP solutions, and computer vision systems.
+
+📈
+
+Business Intelligence & Visualization
+
+Creating interactive dashboards and reports with tools like Power BI & Tableau.
+
+🛠️
+
+Data Engineering & Big Data
+
+Building robust, scalable data pipelines and warehousing solutions.
+
+📊
+
+Advanced Data Analytics
+
+Providing deep statistical analysis and data-driven consulting.
+
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🔧 Our Technology Stack
 We believe in using the right tools for the job. Here are some of the technologies we love and use every day:
@@ -85,6 +114,9 @@ We believe in using the right tools for the job. Here are some of the technologi
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
+
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ⭐ Featured Projects
 Here are a few of our open-source projects and tools. We encourage you to explore, contribute, and give them a star!
@@ -113,6 +145,9 @@ A lightweight, configurable framework for building ETL/ELT pipelines for small t
 
 Python, Pandas, SQLAlchemy
 
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 💻 Our GitHub Stats
 We're proud of our commitment to building in the open. Here's a look at our collective activity.
 
@@ -128,14 +163,19 @@ We're proud of our commitment to building in the open. Here's a look at our coll
 
 </div>
 
+<br>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 🤝 Let's Connect & Collaborate
 We are always looking for new challenges, partnerships, and talented individuals to join our team. If you're passionate about data and want to make an impact, let's talk!
 
-Careers: Check out our open positions on our Website.
+💼 Careers: Check out our open positions on our Website.
 
-Business Inquiries: Have a project in mind? Contact Us.
+📧 Business Inquiries: Have a project in mind? Contact Us.
 
-Contribute: Found a bug or have an idea? Feel free to open an issue or pull request on any of our projects.
+🧑‍💻 Contribute: Found a bug or have an idea? Feel free to open an issue or pull request on any of our projects.
+
+<br>
 
 <div align="center">
 <p>Made with ❤️ and lots of data by the team at <b>Blink Analytics</b>.</p>
