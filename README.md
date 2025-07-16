@@ -4,7 +4,7 @@
 
 <!-- Your Logo -->
 
-<img src="https://github.com/Blink-Analytics/.github/blob/main/Blink_Logo_1.jpg"/>
+<img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg"/>
 
 <!-- Company Name -->
 
