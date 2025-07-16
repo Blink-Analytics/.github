@@ -3,7 +3,7 @@
   <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" width="100%" />
 </p>
 
-# 👁️‍🗨️ Blink Analytics
+# <p align = "center"> Blink Analytics </p>
 
 <p align="center">
   <strong>Generative AI & Data‑Driven Business Intelligence</strong><br>
