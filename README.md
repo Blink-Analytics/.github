@@ -7,13 +7,13 @@
 
 <p align="center">
   <strong>Empowering Enterprises with Next-Generation Data Intelligence</strong><br>
-  <em>Simplifying analytics. Accelerating decisions.</em>
+  <em>Transforming Data into Intellignece, Models into Impact, and AI into your Advantage</em>
 </p>
 
 <p align="center">
   <a href="https://www.blinkanalytics.in"><img src="https://img.shields.io/badge/Visit_Website-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:hello@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact_Us-Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/company/blinkanalytics/"><img src="https://img.shields.io/badge/LinkedIn-Blink_Analytics-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:support@blinkanalytics.in"><img src="https://img.shields.io/badge/Contact_Us-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/company/blink-analytics/"><img src="https://img.shields.io/badge/LinkedIn-Blink_Analytics-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
