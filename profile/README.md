@@ -32,20 +32,50 @@ Blink Analytics is a full-service Generative AI and data analytics firm that emp
 - **Dashboard Distribution & Gamification** – Push insights directly into workflows, motivating adoption via benchmarks and competitions.
 
 ---
-<p align = 'center'>
-## 📊 Key Impact Metrics
+<p align="center"><b>📊 Key Impact Metrics</b></p>
 
-| ⭐ Metric                                        | 📈 Impact Achieved             |
-| ----------------------------------------------- | ------------------------------ |
-| 📣 **Employee Communication Reach**             | 95% average coverage rate      |
-| 📝 **Feedback & Survey Response Rate**          | 3× increase in engagement      |
-| 🔄 **Attrition Risk Reduction**                 | 26% lower voluntary churn      |
-| 📱 **Platform Engagement (daily active users)** | 7× increase in app opens       |
-| 🧠 **Managerial Decision-Making Speed**         | 2× faster insight delivery     |
-| 🎯 **Internal Campaign Effectiveness**          | +40% increase in participation |
-| ✅ **Ease of Use (User Rating)**                 | 9 / 10 (employee-rated)        |
-  
-</p>
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>⭐ <strong>Metric</strong></th>
+      <th>📈 <strong>Impact Achieved</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📣 <strong>Employee Communication Reach</strong></td>
+      <td>95% average coverage rate</td>
+    </tr>
+    <tr>
+      <td>📝 <strong>Feedback & Survey Response Rate</strong></td>
+      <td>3× increase in engagement</td>
+    </tr>
+    <tr>
+      <td>🔄 <strong>Attrition Risk Reduction</strong></td>
+      <td>26% lower voluntary churn</td>
+    </tr>
+    <tr>
+      <td>📱 <strong>Platform Engagement (daily active users)</strong></td>
+      <td>7× increase in app opens</td>
+    </tr>
+    <tr>
+      <td>🧠 <strong>Managerial Decision-Making Speed</strong></td>
+      <td>2× faster insight delivery</td>
+    </tr>
+    <tr>
+      <td>🎯 <strong>Internal Campaign Effectiveness</strong></td>
+      <td>+40% increase in participation</td>
+    </tr>
+    <tr>
+      <td>✅ <strong>Ease of Use (User Rating)</strong></td>
+      <td>9 / 10 (employee-rated)</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
