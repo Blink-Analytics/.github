@@ -32,7 +32,7 @@ Blink Analytics is a full-service Generative AI and data analytics firm that emp
 - **Dashboard Distribution & Gamification** – Push insights directly into workflows, motivating adoption via benchmarks and competitions.
 
 ---
-
+<p align = 'center'>
 ## 📊 Key Impact Metrics
 
 | ⭐ Metric                                        | 📈 Impact Achieved             |
@@ -44,6 +44,8 @@ Blink Analytics is a full-service Generative AI and data analytics firm that emp
 | 🧠 **Managerial Decision-Making Speed**         | 2× faster insight delivery     |
 | 🎯 **Internal Campaign Effectiveness**          | +40% increase in participation |
 | ✅ **Ease of Use (User Rating)**                 | 9 / 10 (employee-rated)        |
+  
+</p>
 
 ---
 
