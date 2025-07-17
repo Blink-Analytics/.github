@@ -85,40 +85,21 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 ---
 
 ## Technology Stack
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
+</p>
 
-<div align="center">
-
-<i class="devicon-python-plain-wordmark colored" style="font-size:40px;"></i>
-<i class="devicon-tensorflow-plain-wordmark colored" style="font-size:40px;"></i>
-<i class="devicon-pytorch-plain-wordmark colored" style="font-size:40px;"></i>
-<i class="devicon-keras-plain-wordmark colored" style="font-size:40px;"></i>
-<i class="devicon-scikitlearn-plain-wordmark colored" style="font-size:40px;"></i>
-<i class="devicon-numpy-plain-wordmark colored" style="font-size:40px;"></i>
-
-</div>
-
-**Core areas: Data Science, Deep Learning & ML**  
-Python · TensorFlow · PyTorch · Keras · Scikit‑learn · NumPy
-
-
-
----
-
-## 🏢 Enterprise Use Cases
-
-1. **Employee Engagement & Retention**  
-   Monitor activation, usage, sentiment, and attrition risks. Predictive alerts and nudges help HR teams take timely action.
-
-2. **Internal Communications Optimization**  
-   Use analytics to identify best-performing messages and channels. Target and distribute content through AI‑assistant–generated compliance and personalized nudges.
-
-3. **Frontline Manager Enablement**  
-   Deliver mobile-first dashboards and real-time insights directly to managers, improving decision speed and outcomes.
-
-4. **Privacy‑First Survey Automation**  
-   Schedule pulse surveys and check-ins from Day 1, analyze aggregated results securely, and trigger action via alerts—all without exposing individual identities.
 
 ---
 
