@@ -2,7 +2,7 @@
   <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" width="100%" />
 </p>
 
-# Blink Analytics
+# <p align = 'center'>Blink Analytics</p>
 
 **Generative AI & Data‑Driven Business Intelligence**  
 *Turning data into intelligence, models into insights, and AI into advantage.*
@@ -73,10 +73,8 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes - Orchestration"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Microsoft Azure - Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="GCP - Cloud Platform"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" title="AWS - Cloud Platform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB - NoSQL Database"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL - Relational DB"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau" title="Tableau - Visualization"/>
 </p>
 
 
