@@ -86,19 +86,20 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ## Technology Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
-</p>
+<div align="center">
+
+<i class="devicon-python-plain-wordmark colored" style="font-size:40px;"></i>
+<i class="devicon-tensorflow-plain-wordmark colored" style="font-size:40px;"></i>
+<i class="devicon-pytorch-plain-wordmark colored" style="font-size:40px;"></i>
+<i class="devicon-keras-plain-wordmark colored" style="font-size:40px;"></i>
+<i class="devicon-scikitlearn-plain-wordmark colored" style="font-size:40px;"></i>
+<i class="devicon-numpy-plain-wordmark colored" style="font-size:40px;"></i>
+
+</div>
+
+**Core areas: Data Science, Deep Learning & ML**  
+Python · TensorFlow · PyTorch · Keras · Scikit‑learn · NumPy
+
 
 
 ---
