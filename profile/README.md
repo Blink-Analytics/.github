@@ -36,7 +36,7 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ---
 
-## 📌 Core Features
+## Core Features
 
 - Real-Time Analytics Dashboard  
 - Granular Filters by department, location, campaign  
@@ -48,7 +48,7 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ---
 
-## ✅ Proven Impact
+## Proven Impact
 
 | Metric                           | Result              |
 |----------------------------------|---------------------|
@@ -63,7 +63,7 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python - Programming Language"/>
@@ -73,11 +73,12 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes - Orchestration"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Microsoft Azure - Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="GCP - Cloud Platform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS - Cloud Platform"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" title="AWS - Cloud Platform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB - NoSQL Database"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL - Relational DB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" title="Tableau - Data Visualization"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau" title="Tableau - Visualization"/>
 </p>
+
 
 <p align="center">
   <em>AI, Cloud, DevOps, and Analytics – we bring it all together.</em>
@@ -94,7 +95,7 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ---
 
-## 👥 Meet the Team & Careers
+## Meet the Team & Careers
 
 We’re a global collective of data scientists, ML engineers, AI researchers, software architects, and cloud specialists—on a mission to democratize workplace intelligence.
 
