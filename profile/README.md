@@ -2,11 +2,11 @@
   <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" width="100%" />
 </p>
 
-# <p align = 'center'>Blink Analytics</p>
+# <p align = 'center'>Blink Analytics
 
 **Generative AI & Data‑Driven Business Intelligence**  
 *Turning data into intelligence, models into insights, and AI into advantage.*
-
+</p>
 ---
 
 ## What We Do
