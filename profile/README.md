@@ -85,6 +85,8 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 ---
 
 ## Technology Stack
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 
 <div align="center">
 
