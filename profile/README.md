@@ -32,26 +32,74 @@ Blink Analytics delivers a mobile-first, privacy-centered analytics platform for
 
 ---
 
-## 📈 Proven Impact
+## Proven Impact
 
-| Metric                                | Result                          |
-|---------------------------------------|---------------------------------|
-| Employee platform reach               | 95 % of employees               |
-| Survey & feedback submission rates    | 3× increase                     |
-| Voluntary churn reduction             | 26 % lower                      |
-| Daily app engagement                  | 7× more opens                   |
-| Insight-to-decision speed             | 2× faster                       |
-| Campaign participation                | +40 % uplift                    |
-| Ease of use (employee rating)         | 9 / 10                          |
-| Activation rate via AI nudges         | 95 % on day one :contentReference[oaicite:5]{index=5}|
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Employee platform reach</td>
+      <td>95% of employees</td>
+    </tr>
+    <tr>
+      <td>Survey & feedback submission rates</td>
+      <td>3× increase</td>
+    </tr>
+    <tr>
+      <td>Voluntary churn reduction</td>
+      <td>26% lower</td>
+    </tr>
+    <tr>
+      <td>Daily app engagement</td>
+      <td>7× more opens</td>
+    </tr>
+    <tr>
+      <td>Insight-to-decision speed</td>
+      <td>2× faster</td>
+    </tr>
+    <tr>
+      <td>Campaign participation</td>
+      <td>+40% uplift</td>
+    </tr>
+    <tr>
+      <td>Ease of use (employee rating)</td>
+      <td>9 / 10</td>
+    </tr>
+    <tr>
+      <td>Activation rate via AI nudges</td>
+      <td>95% on day one</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
-- **Core ML & AI**: Python, R, TensorFlow, PyTorch, Scikit-learn, Hugging Face  
-- **Cloud & Streaming**: AWS / GCP / Azure, Docker, Kubernetes, Airflow, Kafka, Spark  
-- **Data Storage & BI**: PostgreSQL, MongoDB, Tableau, Power BI  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
+</p>
+
 
 ---
 
