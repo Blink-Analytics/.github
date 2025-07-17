@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/Blink-Analytics/.github/blob/main/Blink%20Analytics%20Banner.jpg" alt="Blink Analytics Banner" width="100%" />
 </p>
