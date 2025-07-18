@@ -194,5 +194,6 @@ We're a global team of:
 
 ---
 
-
-© 2025 Blink Analytics Pvt. Ltd. — All rights reserved.
+<p align = 'center'>
+  © 2025 Blink Analytics Pvt. Ltd. — All rights reserved.
+</p>
